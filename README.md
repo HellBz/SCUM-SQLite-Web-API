@@ -96,11 +96,11 @@ Logs are automatically created in `Logs/api_log.txt`.
 
 ## 📜 License
 
-MIT License © 2025 [Stefan Kögl (HellBz)](https://github.com/HellBz)
+MIT License © 2025 [HellBz](https://github.com/HellBz)
 
 ---
 
 ## ❤️ Credits
 
-Developed by **Stefan Kögl (HellBz)**  
+Developed by **HellBz**  
 with support from **Synthia** 🤖
