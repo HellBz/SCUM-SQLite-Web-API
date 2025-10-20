@@ -1,4 +1,4 @@
-# SCUM SQLite API
+# SCUM SQLite Web-API
 
 A lightweight FastAPI-based REST API to safely query the **SCUM.db** file from a running SCUM server.  
 Designed for read-only access with multiple API keys, logging, and safe SQLite connection handling.
